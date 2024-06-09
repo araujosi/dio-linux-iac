@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-# INFRAESTRUTUTURA COMO CODIGO (IAC)
+# INFRAESTRUTURA COMO CODIGO (IAC)
 
 
 echo -e "\n"
